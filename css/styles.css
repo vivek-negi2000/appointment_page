@@ -1,0 +1,85 @@
+html {
+  background-color: #E4E9FD;
+  font-family: 'helvetica neue';
+}
+
+h1{
+  color: #fff;
+  padding: 1% ;
+}
+
+
+
+.container-fluid {
+  padding: 0% 8% 0% 0%;
+}
+
+.colored-section{
+  color: #78DEC7;
+   color: #fff ;
+}
+#title {
+  background-color: #78DEC7;
+   color: #fff;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  /* font-weight: bold; */
+}
+
+.nav-link {
+  font-size: 1.3rem;
+  font-weight:400;
+}
+
+#heading {
+    background-color: #78DEC7;
+    text-align: center;
+}
+
+
+.box {
+    max-width: fit-content;
+    margin: 4% auto;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px -5px rgb(0 0 0 / 30%);
+}
+
+h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.big-heading {
+  color: #78DEC7;
+}
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+.btn{
+background-color: #78DEC7 ;
+}
+
+.btn:hover {
+  background-color: #7C83FD ;
+}
+
+/* Footer formatting  */
+#footer {
+  background-color: #fff;
+  padding: 5% 15%;
+  text-align: center;
+}
+
+.ff {
+  margin: 20px 10px;
+}
